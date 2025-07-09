@@ -1,0 +1,358 @@
+id	pop	species	morph	date	locality	lat	long	sex	embryos	loan
+MSB147123	BC	Myodes rutilus	rutilus	17-Aug-06	"Cassiar Highway (Hwy 37), Kinaskan Lake"	57.52268333	-130.1899333	female	NA	MSB_1
+MSB147137	BC	Myodes rutilus	rutilus	17-Aug-06	"Cassiar Highway (Hwy 37), 1km West of Willow Creek Crossing"	57.44515	-130.2323833	female	NA	MSB_1
+MSB147233	BC	Myodes gapperi	gapperi	15-Aug-06	"Cassiar Highway (Hwy 37), Junction with Gamma Creek"	56.93136667	-130.1220833	unknown	NA	MSB_1
+MSB147459	BC	Myodes gapperi	gapperi	21-Aug-06	"Cassiar Highway (Hwy 37), Slate Creek Crossing"	57.15511667	-130.2449167	male	NA	MSB_1
+MSB147516	BC	Myodes rutilus	rutilus	17-Aug-06	"Cassiar Highway (Hwy 37), Todagin River crossing"	57.61813333	-130.0761	female	NA	MSB_1
+MSB147576	BC	Myodes gapperi	gapperi	14-Aug-06	"Cassiar Highway (Hwy 37), 5km N of Bell II Crossing"	56.74008333	-129.8736833	male	NA	MSB_1
+MSB147601	BC	Myodes gapperi	gapperi	14-Aug-06	"Cassiar Highway (Hwy 37), Nigunsaw Summit"	56.87536667	-130.0354667	female	NA	MSB_1
+MSB147647	BC	Myodes gapperi	gapperi	20-Aug-06	"Cassiar Highway (Hwy 37), Thomas Creek Ccrossing"	57.13141667	-130.2799	female	NA	MSB_1
+MSB147685	BC	Myodes gapperi	gapperi	20-Aug-06	"Cassiar Highway (Hwy 37), Devil Creek Crossing"	57.08133333	-130.2644333	female	NA	MSB_1
+MSB147723	BC	Myodes gapperi	gapperi	20-Aug-06	"Cassiar Highway (Hwy 37), Thomas Creek Ccrossing"	57.13141667	-130.2799	female	NA	MSB_1
+MSB149263	SEAK	Myodes gapperi	gapperi	21-Jul-06	"Wrangell District, Stikine River and Andrew's Creek junction, Mount Rynda Cabin"	56.66366667	-132.2445833	male	NA	MSB_1
+MSB149264	SEAK	Myodes gapperi	gapperi	21-Jul-06	"Wrangell District, Stikine River and Andrew's Creek junction, Mount Rynda Cabin"	56.66366667	-132.2445833	male	NA	MSB_1
+MSB149265	SEAK	Myodes gapperi	gapperi	21-Jul-06	"Wrangell District, Stikine River and Andrew's Creek junction, Mount Rynda Cabin"	56.66366667	-132.2445833	female	NA	MSB_1
+MSB157962	BC	Myodes gapperi	gapperi	7-Jun-03	"Stewart-Cassiar Highway, British Columbia Highway 37, Dease Lake Highway, 21.6 km N Meziadin Junction"	56.27969444	-129.3473889	female	NA	MSB_1
+MSB158085	BC	Myodes rutilus	rutilus	16-Jun-03	about 2.2 road kilometers south of Stikine River along Stewart-Cassiar Highway	58.03180556	-129.9313611	female	NA	MSB_1
+MSB158231	BC	Myodes gapperi	gapperi	13-Jun-03	S side Dettaki Creek	56.54133333	-129.5415833	male	NA	MSB_1
+MSB158253	BC	Myodes gapperi	gapperi	14-Jun-03	S side Glacier creek	56.59658333	-129.6482778	male	NA	MSB_1
+MSB158381	BC	Myodes gapperi	gapperi	8-Jun-03	"Stewart-Cassiar Highway, British Columbia Highway 37, Dease Lake Highway, 36.1 km N Meziadin Junction"	56.365389	-129.274667	male	NA	MSB_1
+MSB198875	BC	Myodes rutilus	rutilus	22-Jun-03	8 km. N Iskut	57.89005556	-130.0444444	male	NA	MSB_1
+MSB199211	BC	Myodes gapperi	gapperi	17-Aug-03	No specific locality recorded	56.31941667	-129.346	female	NA	MSB_1
+MSB199217	BC	Myodes gapperi	gapperi	17-Aug-03	Spruce Creek	56.35063889	-129.2777778	female	NA	MSB_1
+MSB199275	BC	Myodes gapperi	gapperi	18-Aug-03	No specific locality recorded	56.29616667	-129.3521111	male	NA	MSB_1
+UAM20640	SEAK	Myodes gapperi	gapperi	11-Jul-92	Anita Bay area	56.18333333	-132.4833333	female	NA	UAM_1
+UAM20694	SEAK	Myodes gapperi stikinensis	gapperi	14-Jul-92	"Stikine River, Figure Eight Lake"	56.7	-132.25	male	NA	UAM_1
+UAM20711	SEAK	Myodes gapperi stikinensis	gapperi	14-Jul-92	"Stikine River, Figure Eight Lake"	56.7	-132.25	male	NA	UAM_1
+UAM20722	SEAK	Myodes gapperi stikinensis	gapperi	15-Jul-92	"Stikine River, Figure Eight Lake"	56.7	-132.25	female	NA	UAM_1
+UAM20794	SEAK	Myodes gapperi stikinensis	gapperi	25-Jul-92	Stikine River	56.63333333	-132.4166667	male	NA	UAM_1
+UAM20798	SEAK	Myodes gapperi stikinensis	gapperi	25-Jul-92	Stikine River	56.63333333	-132.4166667	female	NA	UAM_1
+UAM23423	SEAK	Myodes gapperi phaeus	gapperi	8-Jul-93	head of Nakat Inlet	54.95	-130.75	female	NA	UAM_1
+UAM23474	SEAK	Myodes gapperi	gapperi	19-Jul-93	mouth of Unuk River	56.08333333	-131.1	female	NA	UAM_1
+UAM23754	SEAK	Myodes gapperi	gapperi	22-Jul-93	"Union Bay, N shore at mouth"	55.75	-132.1833333	female	NA	UAM_1
+UAM42430	SEAK	Myodes rutilus	rutilus	11-Aug-96	"Excursion Inlet, E side"	58.41666667	-135.4333333	female	NA	UAM_1
+UAM44579	SEAK	Myodes rutilus	rutilus	22-Jun-97	Cape Fanshaw	57.21638889	-133.5013889	male	NA	UAM_1
+UAM44610	SEAK	Myodes rutilus	rutilus	29-Jun-97	Limestone Inlet	58.03666667	-133.9583333	male	NA	UAM_1
+UAM48857	SEAK	Myodes rutilus	rutilus	3-Aug-97	Jap Creek	56.77277778	-132.6075	male	NA	UAM_1
+UAM48863	SEAK	Myodes rutilus	rutilus	4-Aug-97	"Petersburg Quad, Alexander Archipelago"	56.96611111	-132.8166667	male	NA	UAM_1
+UAM50109	SEAK	Myodes gapperi	gapperi	20-Nov-97	Nemo	56.25	-132.3166667	female	NA	UAM_1
+UAM50293	SEAK	Myodes gapperi	gapperi	2-Aug-97	Berg Bay	56.36361111	-132.0080556	female	NA	UAM_1
+UAM50297	SEAK	Myodes gapperi	gapperi	29-Jul-97	Mallard Slough	56.71	-132.54	female	NA	UAM_1
+UAM50298	SEAK	Myodes gapperi	gapperi	29-Jul-97	Mallard Slough	56.71	-132.54	female	NA	UAM_1
+UAM50974	SEAK	Myodes rutilus	rutilus	5-Jul-97	Chilkat Peninsula; Mud Bay	59.1625	-135.3577778	female	NA	UAM_1
+UAM50979	SEAK	Myodes rutilus	rutilus	23-Jul-97	Echo Cove	58.66355	-134.90474	male	NA	UAM_1
+UAM76251	SEAK	Myodes gapperi phaeus	gapperi	26-Jul-93	"Chickamin River, Wolf cabin"	55.76666667	-130.8833333	male	NA	UAM_1
+UAM51527	MAK	Myodes rutilus	rutilus	30-Jul-98	"Denali National Park, Kiki Creek site"	63.72533889	-149.0529	female	NA	UAM_1
+UAM51131	SEAK	Myodes gapperi	gapperi	3-Jun-98	Bond Bay	55.53166667	-131.9586111	female	NA	UAM_1
+UAM71045	SEAK	Myodes gapperi	gapperi	30-Jun-99	E side Reflection Lake	56.01083333	-131.5672222	female	NA	UAM_1
+UAM71217	SEAK	Myodes gapperi	gapperi	5-Jul-99	SW Manzanita Bay	55.5825	-130.9669444	female	NA	UAM_1
+UAM71295	SEAK	Myodes gapperi	gapperi	10-Jul-99	"Point Louise, Rudyerd Bay"	55.545	-130.8702778	female	NA	UAM_1
+UAM71308	SEAK	Myodes gapperi	gapperi	10-Jul-99	Rudyerd Bay	55.55444444	-130.8591667	female	NA	UAM_1
+UAM71412	SEAK	Myodes gapperi	gapperi	13-Jul-99	"Ledge Point, Walker Cove"	55.70555556	-130.8927778	female	NA	UAM_1
+UAM71420	SEAK	Myodes gapperi	gapperi	13-Jul-99	"Hut Point, Walker Cove"	55.71333333	-130.9011111	male	NA	UAM_1
+UAM51962	SEAK	Myodes gapperi	gapperi	6-Aug-98	Tyee	56.22055556	-131.4736111	female	NA	UAM_1
+UAM64034	SEAK	Myodes gapperi	gapperi	10-Aug-98	Duck Point	56.18861111	-131.5811111	unknown	NA	UAM_1
+UAM71477	SEAK	Myodes gapperi	gapperi	16-Jul-99	Ward Lake	55.41472222	-131.6958333	male	NA	UAM_1
+UAM59534	MINN	Myodes gapperi	gapperi	8-Jul-01	"Milford Township (T:110N R:31W S:13 NW1/2, NW1/4)"	44.333527	-94.502015	male	NA	UAM_1
+UAM59916	BC	Myodes gapperi	gapperi	19-Sep-01	5 km north of Meziadin Junction	56.115	-129.2833333	female	NA	UAM_1
+NA	NA	NA	Myodes sp.	2022	NA	NA	NA	NA	NA	NA
+FN413	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.986099	-117.244896	female	NA	KU
+FN414	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; 1 mi. south of Kakisa town	60.93852801	-117.386919	female	no	KU
+FN415	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.98661901	-117.244659	female	no	KU
+FN417	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; 1 mi. south of Kakisa town	60.93967399	-117.385956	female	NA	KU
+FN418	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.98565903	-117.245575	male	NA	KU
+FN419	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.98690098	-117.244874	male	NA	KU
+FN420	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.98697399	-117.244873	male	NA	KU
+FN421	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; 1 mi. north of Kakisa River off Hwy 1	60.99277896	-117.268343	female	no	KU
+FN422	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; 1 mi. north of Kakisa River off Hwy 1	60.99437898	-117.265501	male	NA	KU
+FN423	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.98585802	-117.245282	male	NA	KU
+FN424	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.98705504	-117.244849	female	no	KU
+FN428	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; 1 mi. south of Kakisa town	60.93917702	-117.386348	male	NA	KU
+FN442	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; South bank of the Kakisa River off Hwy 1	60.98546902	-117.242653	female	no	KU
+FN445	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; 3.1 mi. west of Hwy 1	60.97090404	-117.304817	male	NA	KU
+FN446	NWT	Myodes rutilus	rutilus	4-Jul-22	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.98585903	-117.245286	female	yes	KU
+FN450	NWT	Myodes gapperi	gapperi	5-Jul-22	Lady Evelyn Falls Territorial Park; 3.1 mi. west of Hwy 1	60.970496	-117.300693	male	NA	KU
+FN455	NWT	Myodes rutilus	rutilus	6-Jul-22	km marker 140 on Hwy 3; 62 miles south of Edzo	62.01332202	-116.303926	female	no	KU
+FN456	NWT	Myodes rutilus	rutilus	6-Jul-22	km marker 140 on Hwy 3; 62 miles south of Edzo	62.01173197	-116.304545	male	NA	KU
+FN458	NWT	Myodes rutilus	rutilus	6-Jul-22	km marker 140 on Hwy 3; 62 miles south of Edzo	62.01370399	-116.308116	female	no	KU
+FN459	NWT	Myodes rutilus	rutilus	6-Jul-22	km marker 140 on Hwy 3; 62 miles south of Edzo	62.01142704	-116.30322	female	no	KU
+FN460	NWT	Myodes rutilus	rutilus	7-Jul-22	"Reid Lake Territorial Park, __ mi. East of campground on Ingraham Trail Rd. (Highway 4)"	62.49184102	-113.445709	male	NA	KU
+FN461	NWT	Myodes rutilus	rutilus	7-Jul-22	"Reid Lake Territorial Park, __ mi. East of campground on Ingraham Trail Rd. (Highway 4)"	62.49115001	-113.453271	female	no	KU
+FN464	NWT	Myodes rutilus	rutilus	9-Jul-22	Yellowknife; __ mi north on Vee Lake Rd; west side of road	62.52978397	-114.356754	female	NA	KU
+FN485	SEAK	Myodes rutilus	rutilus	15-Jul-22	"Chilkat Lake Rd, __ mi from Haines Hwy"	59.49636499	-136.069589	male	NA	KU
+FN499	SEAK	Myodes	Myodes sp.	19-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72386796	-132.091628	male	NA	KU
+FN500	SEAK	Myodes	Myodes sp.	19-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72472803	-132.09145	male	NA	KU
+FN501	SEAK	Myodes	Myodes sp.	19-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72418203	-132.091686	male	NA	KU
+FN502	SEAK	Myodes	Myodes sp.	19-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72542901	-132.090252	female	no	KU
+FN503	SEAK	Myodes	Myodes sp.	19-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72381398	-132.091658	male	NA	KU
+FN505	SEAK	Myodes	Myodes sp.	19-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72370502	-132.091779	female	no	KU
+FN506	SEAK	Myodes	Myodes sp.	19-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72510203	-132.090763	female	no	KU
+FN534	SEAK	Myodes	Myodes sp.	20-Jul-22	"Shake's Slough, north side of the Stikine River"	56.71400104	-132.105536	male	NA	KU
+FN535	SEAK	Myodes	Myodes sp.	20-Jul-22	"Shake's Slough, north side of the Stikine River"	56.71508599	-132.106119	male	NA	KU
+FN540	SEAK	Myodes	Myodes sp.	20-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72489801	-132.091102	male	NA	KU
+FN541	SEAK	Myodes	Myodes sp.	20-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72385899	-132.091642	male	NA	KU
+FN547	SEAK	Myodes	Myodes sp.	20-Jul-22	"Shake's Slough, north side of the Stikine River"	56.72457498	-132.091592	male	NA	KU
+FN550	SEAK	Myodes	Myodes sp.	21-Jul-22	"Shake's Slough, north side of the Stikine River"	56.71489899	-132.102502	male	NA	KU
+FN551	SEAK	Myodes	Myodes sp.	21-Jul-22	"Shake's Slough, north side of the Stikine River"	56.71440404	-132.106765	male	NA	KU
+FN556	SEAK	Myodes	Myodes sp.	21-Jul-22	"Shake's Slough, north side of the Stikine River"	56.71412299	-132.106414	male	NA	KU
+FN558	SEAK	Myodes	Myodes sp.	21-Jul-22	"Shake's Slough, north side of the Stikine River"	56.71412601	-132.106185	male	NA	KU
+FN560	SEAK	Myodes	Myodes sp.	21-Jul-22	"Shake's Slough, north side of the Stikine River"	56.71459699	-132.104085	male	NA	KU
+FN561	SEAK	Myodes	Myodes sp.	21-Jul-22	"Shake's Slough, north side of the Stikine River"	56.71496303	-132.1053	male	NA	KU
+FN563	SEAK	Myodes	Myodes sp.	21-Jul-22	"Rynda's Cabin, south side of Stikine River off Andrew Creek"	56.66437003	-132.241987	female	no	KU
+FN564	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off Andrew Creek"	56.66422603	-132.241224	female	no	KU
+FN566	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off Andrew Slough"	56.66405001	-132.241333	male	NA	KU
+FN567	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66436299	-132.241355	male	NA	KU
+FN568	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66405101	-132.241343	unknown	NA	KU
+FN569	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66408798	-132.2413	female	no	KU
+FN571	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66329798	-132.24151	unknown	NA	KU
+FN572	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66395202	-132.241321	female	yes	KU
+FN573	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66389997	-132.241214	female	no	KU
+FN574	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66370903	-132.241448	male	NA	KU
+FN575	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.663948	-132.241877	male	NA	KU
+FN577	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66423399	-132.242242	female	yes	KU
+FN578	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.663316	-132.241915	male	NA	KU
+FN580	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66407004	-132.242136	male	NA	KU
+FN581	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66391003	-132.241688	male	NA	KU
+FN582	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66274	-132.241396	male	NA	KU
+FN583	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66326999	-132.241542	male	NA	KU
+FN584	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.663559	-132.241933	female	NA	KU
+FN585	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off Andrew Creek"	56.66381196	-132.241643	male	NA	KU
+FN588	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66286497	-132.241436	male	NA	KU
+FN589	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.662899	-132.24143	male	NA	KU
+FN591	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.663373	-132.242447	female	no	KU
+FN592	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66304099	-132.241812	male	NA	KU
+FN598	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66402101	-132.241813	male	NA	KU
+FN601	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66420901	-132.242136	female	NA	KU
+FN602	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66359001	-132.241976	male	NA	KU
+FN603	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66276699	-132.241307	male	NA	KU
+FN604	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66439903	-132.24122	male	NA	KU
+FN605	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66387097	-132.241794	male	NA	KU
+FN606	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66418102	-132.241734	male	NA	KU
+FN607	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66298903	-132.242071	female	NA	KU
+FN608	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.663014	-132.241882	female	no	KU
+FN610	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66342899	-132.242379	female	NA	KU
+FN611	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66291501	-132.241546	female	yes	KU
+FN612	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66310403	-132.242185	female	NA	KU
+FN613	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66313898	-132.242377	female	NA	KU
+FN614	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66354902	-132.242426	female	NA	KU
+FN616	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66441102	-132.240857	female	NA	KU
+FN618	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66441303	-132.241469	male	NA	KU
+FN715	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66441998	-132.24145	male	NA	KU
+FN716	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66421999	-132.241821	female	NA	KU
+FN720	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66424899	-132.24096	female	no	KU
+FN721	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66423198	-132.241255	female	no	KU
+FN722	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66335104	-132.241399	female	no	KU
+FN723	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66422804	-132.240747	male	NA	KU
+FN725	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66447204	-132.242033	male	NA	KU
+FN726	SEAK	Myodes	Myodes sp.	22-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.664351	-132.24191	male	NA	KU
+FN732	SEAK	Myodes	Myodes sp.	23-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66431404	-132.240836	female	no	KU
+FN733	SEAK	Myodes	Myodes sp.	23-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66345196	-132.241918	male	NA	KU
+FN735	SEAK	Myodes	Myodes sp.	23-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66300001	-132.242231	female	no	KU
+FN740	SEAK	Myodes	Myodes sp.	23-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66298701	-132.241808	female	NA	KU
+FN741	SEAK	Myodes	Myodes sp.	23-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66340301	-132.242528	female	no	KU
+FN746	SEAK	Myodes	Myodes sp.	23-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66396401	-132.242074	female	no	KU
+FN747	SEAK	Myodes	Myodes sp.	23-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66409804	-132.241302	female	no	KU
+FN748	SEAK	Myodes	Myodes sp.	24-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.663014	-132.241562	male	NA	KU
+FN749	SEAK	Myodes	Myodes sp.	24-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66336504	-132.242413	female	no	KU
+FN754	SEAK	Myodes	Myodes sp.	24-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66332698	-132.241573	female	NA	KU
+FN756	SEAK	Myodes	Myodes sp.	24-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66344299	-132.241355	male	NA	KU
+FN759	SEAK	Myodes	Myodes sp.	24-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66430901	-132.241944	male	NA	KU
+FN761	SEAK	Myodes	Myodes sp.	24-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66408597	-132.241659	female	no	KU
+FN766	SEAK	Myodes	Myodes sp.	24-Jul-22	"Rynda's Cabin, South side of the Stikine River off of Andrew's Slough"	56.66391699	-132.241861	male	NA	KU
+NA	NA	NA	Myodes sp.	2022	NA	NA	NA	NA	NA	NA
+WK1514	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; 1 mi. north of Kakisa River off Hwy 1	60.99273001	-117.268415	NA	NA	WK_field
+WK1515	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.985668	-117.245562	NA	NA	WK_field
+WK1516	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.98585601	-117.245387	NA	NA	WK_field
+WK1517	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; 3.1 mi. west of Hwy 1	60.97102599	-117.301686	NA	NA	WK_field
+WK1518	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; 1 mi. south of Kakisa town	60.93961003	-117.385841	NA	NA	WK_field
+WK1521	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; 3.1 mi. west of Hwy 1	60.97088099	-117.30141	NA	NA	WK_field
+WK1528	NWT	Myodes	Myodes sp.	2022	NA	NA	NA	NA	NA	WK_field
+WK1530	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; North bank of the Kakisa River off Hwy 1	60.97004497	-117.300623	NA	NA	WK_field
+WK1531	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; South bank of the Kakisa River off Hwy 1	60.98428298	-117.242409	NA	NA	WK_field
+WK1536	NWT	Myodes	Myodes sp.	2022	"km marker 140 on Hwy 3, 62 miles S of Edzo"	62.01380901	-116.310864	NA	NA	WK_field
+WK1568	NWT	Myodes	Myodes sp.	2022	NA	NA	NA	NA	NA	WK_field
+NA	NA	NA	Myodes sp.	2022	NA	NA	NA	NA	NA	NA
+NK318805	NWT	Myodes	Myodes sp.	2022	Lady Evelyn Falls Territorial Park; 3.1 mi. west of Hwy 1	NA	NA	NA	NA	MSB_field
+NK318834	NWT	Myodes	Myodes sp.	2022	km marker 140 on Hwy 3; 62 miles south of Edzo	62.010887	-116.300879	NA	NA	MSB_field
+NA	NA	NA	Myodes sp.	2022	NA	NA	NA	NA	NA	NA
+UAM20706	SEAK	Myodes gapperi stikinensis	gapperi	14-Jul-92	"Stikine River, Figure Eight Lake, Petersburg Quad, Alexander Archipelago"	56.7	-132.25	female	NA	UAM_2
+UAM20736	SEAK	Myodes gapperi	gapperi	16-Jul-92	"Stikine River, Petersburg Quad, Alexander Archipelago, Limb Island"	56.675	-132.2833333	female	NA	UAM_2
+UAM20737	SEAK	Myodes gapperi	gapperi	16-Jul-92	"Limb Island, Stikine River, Petersburg Quad, Alexander Archipelago, Limb Island"	56.7	-132.25	male	NA	UAM_2
+UAM20738	SEAK	Myodes gapperi	gapperi	16-Jul-92	"Limb Island, Stikine River, Petersburg Quad, Alexander Archipelago, Limb Island"	56.7	-132.25	male	NA	UAM_2
+UAM20791	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	male	NA	UAM_2
+UAM20792	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	female	NA	UAM_2
+UAM20796	SEAK	Myodes gapperi stikinensis	gapperi	25-Jul-92	"Stikine River, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	male	NA	UAM_2
+UAM20797	SEAK	Myodes gapperi stikinensis	gapperi	25-Jul-92	"Stikine River, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	male	NA	UAM_2
+UAM20799	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	male	NA	UAM_2
+UAM22815	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Binkley Slough, Petersburg Quad, Alexander Archipelago, Farm Island"	56.61666667	-132.4333333	female	NA	UAM_2
+UAM29980	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Ellis cabin, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	female	NA	UAM_2
+UAM29983	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Ellis cabin, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	male	NA	UAM_2
+UAM29984	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Ellis cabin, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	female	NA	UAM_2
+UAM29985	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Ellis cabin, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	male	NA	UAM_2
+UAM29986	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Ellis cabin, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	female	NA	UAM_2
+UAM29987	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Ellis cabin, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	male	NA	UAM_2
+UAM29988	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	female	NA	UAM_2
+UAM29989	SEAK	Myodes gapperi	gapperi	25-Jul-92	"Stikine River, Petersburg Quad, Alexander Archipelago, Farm Island"	56.63333333	-132.4166667	female	NA	UAM_2
+UAM48870	SEAK	Myodes rutilus	rutilus	6-Aug-97	"Petersburg Quad, Alexander Archipelago"	56.96611111	-132.8166667	female	NA	UAM_2
+UAM50483	SEAK	Myodes gapperi	gapperi	29-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM50489	SEAK	Myodes gapperi	gapperi	29-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM68455	SEAK	Myodes	Myodes sp.	4-Aug-97	"Petersburg Quad, Alexander Archipelago"	56.96611111	-132.8166667	male	NA	UAM_2
+UAM68454	SEAK	Myodes	Myodes sp.	4-Aug-97	"Petersburg Quad, Alexander Archipelago"	56.96611111	-132.8166667	female	NA	UAM_2
+UAM68459	SEAK	Myodes	Myodes sp.	5-Aug-97	"Petersburg Quad, Alexander Archipelago"	56.96611111	-132.8166667	male	NA	UAM_2
+UAM68438	SEAK	Myodes	Myodes sp.	1-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	male	NA	UAM_2
+UAM68442	SEAK	Myodes rutilus	rutilus	2-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	female	NA	UAM_2
+UAM68437	SEAK	Myodes	Myodes sp.	1-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	male	NA	UAM_2
+UAM68444	SEAK	Myodes	Myodes sp.	2-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	male	NA	UAM_2
+UAM68445	SEAK	Myodes	Myodes sp.	2-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	male	NA	UAM_2
+UAM68443	SEAK	Myodes	Myodes sp.	2-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	female	NA	UAM_2
+UAM68446	SEAK	Myodes rutilus	rutilus	2-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	female	NA	UAM_2
+UAM68452	SEAK	Myodes	Myodes sp.	3-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	female	NA	UAM_2
+UAM68435	SEAK	Myodes	Myodes sp.	1-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	unknown	NA	UAM_2
+UAM68436	SEAK	Myodes	Myodes sp.	1-Aug-97	"Jap Creek, Petersburg Quad, Alexander Archipelago"	56.77277778	-132.6075	unknown	NA	UAM_2
+UAM100098	SEAK	Myodes gapperi	gapperi	23-Oct-02	"Thomas Bay small mammal transect, large forest, Petersburg Quad, Alexander Archipelago"	56.94101	-132.828	male	NA	UAM_2
+UAM100102	SEAK	Myodes gapperi	gapperi	23-Oct-02	"Thomas Bay small mammal transect, large forest, Petersburg Quad, Alexander Archipelago"	56.94101	-132.828	female	NA	UAM_2
+UAM100156	SEAK	Myodes gapperi	gapperi	24-Oct-02	"Thomas Bay small mammal transect, mixed forest, Petersburg Quad, Alexander Archipelago"	56.93003	-132.862	female	NA	UAM_2
+UAM100160	SEAK	Myodes gapperi	gapperi	24-Oct-02	"Thomas Bay small mammal transect, mixed forest, Petersburg Quad, Alexander Archipelago"	56.93003	-132.862	male	NA	UAM_2
+UAM100185	SEAK	Myodes gapperi	gapperi	24-Oct-02	"Thomas Bay small mammal transect, mixed forest, Petersburg Quad, Alexander Archipelago"	56.93003	-132.862	male	NA	UAM_2
+UAM100187	SEAK	Myodes gapperi	gapperi	22-Oct-02	"Thomas Bay small mammal transect, riparian spruce, Petersburg Quad, Alexander Archipelago"	56.95053	-132.784	female	NA	UAM_2
+UAM41893	BC	Myodes gapperi	gapperi	5-Aug-95	Iskut River Valley	57.13555556	-130.2863889	male	NA	UAM_2
+UAM47614	BC	Myodes gapperi	gapperi	4-Aug-95	Iskut River Valley	57.13555556	-130.2863889	male	NA	UAM_2
+UAM47615	BC	Myodes gapperi	gapperi	5-Aug-95	Iskut River Valley	57.13555556	-130.2863889	female	NA	UAM_2
+UAM52520	BC	Myodes gapperi	gapperi	4-Aug-95	Iskut River Valley	57.13555556	-130.2863889	female	NA	UAM_2
+UAM52534	BC	Myodes gapperi	gapperi	5-Aug-95	Iskut River Valley	57.13555556	-130.2863889	female	NA	UAM_2
+UAM50299	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50300	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM50301	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50302	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50303	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM50304	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50305	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM50472	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50478	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50479	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50480	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50481	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM50482	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM50485	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50487	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50488	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM50490	SEAK	Myodes gapperi	gapperi	31-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM50491	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM51018	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM51019	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM51020	SEAK	Myodes gapperi	gapperi	30-Jul-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM68274	SEAK	Myodes gapperi	gapperi	1-Aug-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM68273	SEAK	Myodes gapperi	gapperi	1-Aug-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM68271	SEAK	Myodes gapperi	gapperi	1-Aug-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	male	NA	UAM_2
+UAM68272	SEAK	Myodes gapperi	gapperi	1-Aug-97	"Mallard Slough, Petersburg Quad, Alexander Archipelago"	56.71	-132.54	female	NA	UAM_2
+UAM50294	SEAK	Myodes gapperi	gapperi	2-Aug-97	"Berg Bay, Petersburg Quad, Alexander Archipelago"	56.36361111	-132.0080556	male	NA	UAM_2
+UAM50295	SEAK	Myodes gapperi	gapperi	4-Aug-97	"Berg Bay, Petersburg Quad, Alexander Archipelago"	56.36361111	-132.0080556	male	NA	UAM_2
+UAM50296	SEAK	Myodes gapperi	gapperi	4-Aug-97	"Berg Bay, Petersburg Quad, Alexander Archipelago"	56.36361111	-132.0080556	male	NA	UAM_2
+UAM68414	SEAK	Myodes gapperi	gapperi	2-Aug-97	"Berg Bay, Petersburg Quad, Alexander Archipelago"	56.36361111	-132.0080556	male	NA	UAM_2
+UAM23201	RUSS	Alticola lemminus	Alticola	3-Sep-92	Stokovo	61.8444868	147.6631164	male	NA	UAM_2
+UAM34216	RUSS	Alticola lemminus	Alticola	24-Aug-94	Vsadnik Bay	64.38	-173.3	female	NA	UAM_2
+NA	NA	NA	Myodes sp.	2022	NA	NA	NA	NA	NA	NA
+MSB147138	BC	Myodes rutilus	rutilus	17-Aug-06	"Cassiar Highway (Hwy 37), 1km West of Willow Creek Crossing"	57.44515	-130.2323833	unknown	NA	MSB_2
+MSB147139	BC	Myodes rutilus	rutilus	17-Aug-06	"Cassiar Highway (Hwy 37), 1km West of Willow Creek Crossing"	57.44515	-130.2323833	male	NA	MSB_2
+MSB147140	BC	Myodes rutilus	rutilus	17-Aug-06	"Cassiar Highway (Hwy 37), 1km West of Willow Creek Crossing"	57.44515	-130.2323833	female	NA	MSB_2
+MSB147141	BC	Myodes rutilus	rutilus	17-Aug-06	"Cassiar Highway (Hwy 37), 1km West of Willow Creek Crossing"	57.44515	-130.2323833	female	NA	MSB_2
+MSB147142	BC	Myodes rutilus	rutilus	17-Aug-06	"Cassiar Highway (Hwy 37), 1km West of Willow Creek Crossing"	57.44515	-130.2323833	female	NA	MSB_2
+MSB147449	BC	Myodes rutilus	rutilus	38950	"Cassiar Highway (Hwy 37), Thomas Creek Crossing"	57.13141667	-130.2799	female	NA	MSB_2
+MSB147451	BC	Myodes rutilus	rutilus	38950	"Cassiar Highway (Hwy 37), Thomas Creek Crossing"	57.13141667	-130.2799	male	NA	MSB_2
+MSB147455	BC	Myodes gapperi	gapperi	38950	"Cassiar Highway (Hwy 37), Thomas Creek Crossing"	57.13141667	-130.2799	female	NA	MSB_2
+MSB147457	BC	Myodes gapperi	gapperi	38950	"Cassiar Highway (Hwy 37), Thomas Creek Crossing"	57.13141667	-130.2799	female	NA	MSB_2
+MSB147460	BC	Myodes gapperi	gapperi	38950	"Cassiar Highway (Hwy 37), Slate Creek Crossing"	57.15511667	-130.2449167	male	NA	MSB_2
+MSB147463	BC	Myodes rutilus	rutilus	38950	"Cassiar Highway (Hwy 37), Slate Creek Crossing"	57.15511667	-130.2449167	male	NA	MSB_2
+MSB147466	BC	Myodes gapperi	gapperi	38950	"Cassiar Highway (Hwy 37), Slate Creek Crossing"	57.15511667	-130.2449167	female	NA	MSB_2
+MSB155686	BC	Myodes gapperi	gapperi	12-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	female	NA	MSB_2
+MSB155687	BC	Myodes rutilus	rutilus	12-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	female	NA	MSB_2
+MSB155694	BC	Myodes rutilus	rutilus	12-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	male	NA	MSB_2
+MSB155730	BC	Myodes rutilus	rutilus	12-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	female	NA	MSB_2
+MSB155731	BC	Myodes rutilus	rutilus	12-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	male	NA	MSB_2
+MSB155751	BC	Myodes gapperi	gapperi	11-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	female	NA	MSB_2
+MSB155752	BC	Myodes rutilus	rutilus	11-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	male	NA	MSB_2
+MSB155753	BC	Myodes rutilus	rutilus	11-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	female	NA	MSB_2
+MSB155862	BC	Myodes rutilus	rutilus	11-Aug-07	"Cassiar Highway (Hwy 37), Burrage River Crossing"	57.2823	-130.2688	female	NA	MSB_2
+MSB155710	BC	Myodes gapperi	gapperi	12-Aug-07	"Cassiar Highway (Hwy 37), Slate Creek Crossing"	57.1698	-130.2367	male	NA	MSB_2
+MSB155711	BC	Myodes rutilus	rutilus	12-Aug-07	"Cassiar Highway (Hwy 37), Slate Creek Crossing"	57.1698	-130.2367	male	NA	MSB_2
+MSB155712	BC	Myodes gapperi	gapperi	12-Aug-07	"Cassiar Highway (Hwy 37), Slate Creek Crossing"	57.1698	-130.2367	female	NA	MSB_2
+MSB266678	BC	Myodes	Myodes sp.	5-Aug-13	South of Kinaskan Lake	57.30189	-130.25405	female	NA	MSB_2
+MSB266686	BC	Myodes	Myodes sp.	5-Aug-13	South of Kinaskan Lake	57.30163	-130.25454	male	NA	MSB_2
+MSB266688	BC	Myodes	Myodes sp.	5-Aug-13	South of Kinaskan Lake	57.30268	-130.25569	female	NA	MSB_2
+MSB266704	BC	Myodes	Myodes sp.	7-Aug-13	South of Kinaskan Lake	57.30149	-130.25463	male	NA	MSB_2
+NK326083	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.75149304	-132.529129	female	no	MSB_3
+NK326084	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.75070598	-132.530821	female	yes	MSB_3
+NK326085	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.75607098	-132.530132	male	NA	MSB_3
+NK326086	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.75139899	-132.530773	male	NA	MSB_3
+NK326087	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.75170803	-132.52859	male	NA	MSB_3
+NK326090	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, North of LeConte Bay"	56.756837	-132.528963	female	yes	MSB_3
+NK326098	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.75173402	-132.528555	female	no	MSB_3
+NK326107	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.75303799	-132.526254	male	NA	MSB_3
+NK326108	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.75710699	-132.520626	male	NA	MSB_3
+NK326113	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	56.75720003	-132.520614	female	yes	MSB_3
+NK326089	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, North of LeConte Bay"	56.751501	-132.530914	female	no	MSB_3
+NK326093	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, North of LeConte Bay"	56.75701797	-132.528844	male	NA	MSB_3
+NK326096	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, North of LeConte Bay"	56.75089097	-132.530563	female	yes	MSB_3
+NK326097	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.754664	-132.528042	female	no	MSB_3
+NK326106	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.75166001	-132.529203	male	NA	MSB_3
+NK326101	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.751385	-132.53087	female	no	MSB_3
+NK326115	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	56.75724302	-132.520731	male	NA	MSB_3
+NK326116	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	56.75639897	-132.529383	male	NA	MSB_3
+NK326119	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	56.75691202	-132.5288	female	no	MSB_3
+NK326099	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.75599303	-132.526341	male	NA	MSB_3
+NK326095	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.75607199	-132.530403	female	yes	MSB_3
+NK326100	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.75169303	-132.528588	male	NA	MSB_3
+NK326102	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.757195	-132.520713	male	NA	MSB_3
+FN1971	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66291501	-132.241546	NA	FN611	KU_2
+FN1972	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66291501	-132.241546	NA	FN611	KU_2
+FN1973	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66291501	-132.241546	NA	FN611	KU_2
+FN1974	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66291501	-132.241546	NA	FN611	KU_2
+FN1975	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66291501	-132.241546	NA	FN611	KU_2
+FN1976	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66423399	-132.242242	NA	FN577	KU_2
+FN1977	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66423399	-132.242242	NA	FN577	KU_2
+FN1978	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66423399	-132.242242	NA	FN577	KU_2
+FN1986	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66395202	-132.241321	NA	FN572	KU_2
+FN1987	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66395202	-132.241321	NA	FN572	KU_2
+FN1988	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66395202	-132.241321	NA	FN572	KU_2
+FN1989	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66395202	-132.241321	NA	FN572	KU_2
+FN1990	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66395202	-132.241321	NA	FN572	KU_2
+FN1991	SEAK	Myodes gapperi	gapperi	22-Jul-22	"Rynda's Cabin, south side of Stikine River off of Andrew's Slough"	56.66395202	-132.241321	NA	FN572	KU_2
+FN2431	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	56.756396	-132.52938	NA	FN2587	KU_2
+FN2432	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	56.756396	-132.52938	NA	FN2587	KU_2
+FN2433	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	56.756396	-132.52938	NA	FN2587	KU_2
+FN2434	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	56.756396	-132.52938	NA	FN2587	KU_2
+FN2435	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	56.756396	-132.52938	NA	FN2587	KU_2
+FN2532	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"			female	no	KU_2
+FN2533	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.752883	-132.52746	female	no	KU_2
+FN2537	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.751693	-132.52859	male	NA	KU_2
+FN2538	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.750893	-132.53056	male	NA	KU_2
+FN2539	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.751371	-132.52967	female	no	KU_2
+FN2541	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.756647	-132.5205	male	NA	KU_2
+FN2542	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.750891	-132.53056	male	NA	KU_2
+FN2543	SEAK	Myodes rutilus	rutilus	4-Jul-23	"Indian Point, north of LeConte Bay"	56.757227	-132.52886	female	no	KU_2
+FN2549	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	NA	NA	male	NA	KU_2
+FN2551	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.756072	-132.5304	male	NA	KU_2
+FN2553	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.751522	-132.52923	female	yes	KU_2
+FN2558	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.751426	-132.53091	female	no	KU_2
+FN2559	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.75664	-132.52044	male	NA	KU_2
+FN2560	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.752694	-132.52768	male	NA	KU_2
+FN2561	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.754865	-132.52789	male	NA	KU_2
+FN2562	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.757195	-132.52071	male	NA	KU_2
+FN2563	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.751652	-132.5288	male	NA	KU_2
+FN2564	SEAK	Myodes gapperi	gapperi	5-Jul-23	"Indian Point, north of LeConte Bay"	56.752752	-132.52768	female	no	KU_2
+FN2564_1	SEAK	Myodes gapperi	gapperi	5-Jul-23	"Indian Point, north of LeConte Bay"	56.752752	-132.52768	female	no	KU_2
+FN2564_2	SEAK	Myodes gapperi	gapperi	5-Jul-23	"Indian Point, north of LeConte Bay"	56.752752	-132.52768	female	no	KU_2
+FN2565	SEAK	Myodes rutilus	rutilus	5-Jul-23	"Indian Point, north of LeConte Bay"	56.751414	-132.52954	male	NA	KU_2
+FN2570	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	NA	NA	female	no	KU_2
+FN2575	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	56.755677	-132.52618	male	NA	KU_2
+FN2582	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	56.754734	-132.52797	male	NA	KU_2
+FN2583	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	56.752195	-132.52783	male	NA	KU_2
+FN2585	SEAK	Myodes rutilus	rutilus	6-Jul-23	"Indian Point, north of LeConte Bay"	NA	NA	female	no	KU_2
+FN2586	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	NA	NA	female	no	KU_2
+FN2586_1	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	NA	NA	female	no	KU_2
+FN2586_2	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	NA	NA	female	no	KU_2
+FN2587	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	56.756396	-132.52938	female	yes	KU_2
+FN2587_1	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	56.756396	-132.52938	female	yes	KU_2
+FN2587_2	SEAK	Myodes	Myodes sp.	6-Jul-23	"Indian Point, north of LeConte Bay"	56.756396	-132.52938	female	yes	KU_2
+FN2594	SEAK	Myodes rutilus	rutilus	7-Jul-23	"Indian Point, north of LeConte Bay"	56.75606	-132.53043	female	yes	KU_2
+FN2595	SEAK	Myodes rutilus	rutilus	7-Jul-23	"Indian Point, north of LeConte Bay"	56.753001	-132.52716	male	NA	KU_2

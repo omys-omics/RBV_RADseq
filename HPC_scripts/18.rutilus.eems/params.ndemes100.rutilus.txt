@@ -1,0 +1,9 @@
+datapath = /kuhpc/work/colella/ben/004.RBV.rad/09.plate.1-5.analyses/01.align.reads/18.rutilus.eems/data.rutilus/datapath.rutilus
+mcmcpath = /kuhpc/work/colella/ben/004.RBV.rad/09.plate.1-5.analyses/01.align.reads/18.rutilus.eems/rep100.rutilus
+nIndiv = 71
+nSites = 2597
+nDemes = 100
+diploid = true
+numMCMCIter = 10000000
+numBurnIter = 1000000
+numThinIter = 999

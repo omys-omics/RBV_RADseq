@@ -1,0 +1,9 @@
+datapath = /kuhpc/work/colella/ben/004.RBV.rad/09.plate.1-5.analyses/01.align.reads/19.gapperi.eems/data.gapperi/datapath.gapperi
+mcmcpath = /kuhpc/work/colella/ben/004.RBV.rad/09.plate.1-5.analyses/01.align.reads/19.gapperi.eems/rep200.gapperi
+nIndiv = 109
+nSites = 5906
+nDemes = 200
+diploid = true
+numMCMCIter = 10000000
+numBurnIter = 1000000
+numThinIter = 999
